@@ -3,7 +3,7 @@
 A highly interactive, visually striking personal portfolio built with modern web technologies, showcasing engineering capabilities through cinematic 3D effects, physics-based animations, and responsive layouts.
 
 ## 🌟 Live Demo
-[*(Add your live deployment link here!)*](#)
+[*https://kevinjoseph.vercel.app/*](#)
 
 ## 🛠️ Technology Stack
 This portfolio is engineered for maximum performance and visual impact using:
